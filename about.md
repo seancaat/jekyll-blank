@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 HEYO HIYA documentation at [jekyllrb.com](http://jekyllrb.com/)
