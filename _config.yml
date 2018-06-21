@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -14,6 +15,26 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dscollage.com" # the base hostname & protocol for your site
 twitter_username: debbiesakscollage
 github_username:  debbie
+=======
+---
+title: Your awesome title
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: your-email@domain.com
+description: 'Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+>>>>>>> b99eae5971f161f76597885f3b44528ef18035d4
 
-# Build settings
+'
+baseurl: 
+url: http://yourdomain.com
+twitter_username: jekyllrb
+github_username: jekyll
 markdown: kramdown
